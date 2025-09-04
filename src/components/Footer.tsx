@@ -5,7 +5,7 @@ export default function Footer(){
       <div className="container">
         <div className="row">
           <small>© {year} The ArtLogic — All rights reserved.</small>
-          <small>Built with TheArtLogin</small>
+          <small>Built with TheArtLogic</small>
         </div>
       </div>
     </footer>
